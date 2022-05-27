@@ -10,7 +10,7 @@ In this reporsitory you can find my solutions to problems with C#.
           
    1. Warmup
       
-   Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/tree/main/Algorithms/Warmups) | Score: 10
+   Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/SimpleArraySum.cs) | Score: 10
   
   Compare the Triplets | Problem | Solution | Score: 10
           
