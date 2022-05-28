@@ -8,7 +8,7 @@ In this reporsitory you can find my solutions to problems with C#.
           
 1. Warmup Problems
       
-   -Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/SimpleArraySum.cs) | Score: 10
+   -Compare Triplets | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/SimpleArraySum.cs) | Score: 10
   
    -Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/Diagonaldifference.cs) | Score: 10
           
