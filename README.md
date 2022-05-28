@@ -6,24 +6,24 @@
 
 In this reporsitory you can find my solutions to problems with C#.
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ilyasBayram/HackerRankSolutions"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ilyasBayram/HackerRankSolutions">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ilyasBayram/HackerRankSolutions"> &nbsp; <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ilyasBayram/HackerRankSolutions">
           
-1. Warmup Problems
+<strong>1. Warmup Problems</strong>
       
-   -Compare Triplets | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/SimpleArraySum.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Compare Triplets | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/SimpleArraySum.cs) | Score: 10
   
-   -Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/Diagonaldifference.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/Diagonaldifference.cs) | Score: 10
           
-   -Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/PlusMinus.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/PlusMinus.cs) | Score: 10
           
-   -Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/Staircase.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/Staircase.cs) | Score: 10
           
-   -Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/MinMaxSum.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/MinMaxSum.cs) | Score: 10
           
-   -Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/BirthdayCakeCandles.cs) | Score: 10
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/BirthdayCakeCandles.cs) | Score: 10
+ 
+ <strong>2. Implementation Problems</strong>
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Grading student | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/GradingStudents.cs) | Score: 10 
    
-2. Implementation
-  
-   -Grading student | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/GradingStudents.cs) | Score: 10 
-   
-   -Apple And Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/AppleAndOrange.cs) | Score: 10 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Apple And Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/AppleAndOrange.cs) | Score: 10 
