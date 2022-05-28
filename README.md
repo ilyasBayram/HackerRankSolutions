@@ -5,6 +5,8 @@
 <h1 align="center">Solutions To HackerRank Practise Problems</h1>
 
 In this reporsitory you can find my solutions to problems with C#.
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ilyasBayram/HackerRankSolutions"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ilyasBayram/HackerRankSolutions">
           
 1. Warmup Problems
       
@@ -19,3 +21,9 @@ In this reporsitory you can find my solutions to problems with C#.
    -Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/MinMaxSum.cs) | Score: 10
           
    -Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankPractise/blob/main/Algorithms/Warmups/BirthdayCakeCandles.cs) | Score: 10
+   
+2. Implementation
+  
+   -Grading student | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/GradingStudents.cs) | Score: 10 
+   
+   -Apple And Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/AppleAndOrange.cs) | Score: 10 
