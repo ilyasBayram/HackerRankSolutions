@@ -46,11 +46,12 @@ In this reporsitory you can find my solutions to problems with C#.
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Hurdle Race| [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/TheHurdleRace.cs) | Score: 15
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Designer Pdf Viewer| [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/DesignerPdfViewer.cs) | Score: 20
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Viral Advertising| [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ViralAdvertising.cs) | Score: 15
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Beatiful Days At The Movies| [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BeatifulDaysAtTheMovies.cs) | Score: 15
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Designer Pdf Viewer| [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/DesignerPdfViewer.cs) | Score: 20
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Utopian Tree| [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/UtopianTree.cs) | Score: 20
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Viral Advertising| [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ViralAdvertising.cs) | Score: 15
-
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/Angry%20Professor.cs) | Score: <font color= red > 20 </font>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/Angry%20Professor.cs) | Score: 20 
