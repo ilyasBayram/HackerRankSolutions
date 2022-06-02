@@ -28,4 +28,6 @@ In this reporsitory you can find my solutions to problems with C#.
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Apple And Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/AppleAndOrange.cs) | Score: 10 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Apple And Orange | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BrakingRecord.cs) | Score: 10 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Bracikng Record | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)  | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BrakingRecord.cs) | Score: 10 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/tree/main/Algorithms/Implementations) | Score: 10 
