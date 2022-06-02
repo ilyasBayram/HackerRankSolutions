@@ -41,5 +41,7 @@ In this reporsitory you can find my solutions to problems with C#.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Sales By Matches | [Problem](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/DrawingBook.cs) | Score: 10
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Electronics Shop| [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ElectronicsShop.cs) | Score: 10
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Cats And Mouse| [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/CatsAndMouse.cs) | Score: 10
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/Angry%20Professor.cs) | Score: <font color= red > 20 </font>
