@@ -30,7 +30,7 @@ In this reporsitory you can find my solutions to problems with C#.
  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/NumberLineJumps.cs) | Score: 10
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Bracikng Record | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)  | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BrakingRecord.cs) | Score: 10 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Braking Record | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)  | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BrakingRecord.cs) | Score: 10 
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Subarray Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/SubarrayDivision.cs) | Score: 10
    
