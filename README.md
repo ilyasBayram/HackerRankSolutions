@@ -4,7 +4,7 @@
 
 <h1 align="center">Solutions To HackerRank Practise Problems</h1>
 
-In this reporsitory you can find my solutions to problems with C#.
+In this repository you can find my solutions to problems with C#.
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ilyasBayram/HackerRankSolutions"> &nbsp; <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ilyasBayram/HackerRankSolutions">
           
