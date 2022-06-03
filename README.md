@@ -57,3 +57,5 @@ In this reporsitory you can find my solutions to problems with C#.
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/Angry%20Professor.cs) | Score: 20 
  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/HalloweenSale.cs) | Score: 20
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Halloween Sale | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
