@@ -70,6 +70,8 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/FindDigits.cs) | Score: 25
   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Cut The Stick | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/CutTheStick.cs) | Score: 25
+  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
   
   </ul>
