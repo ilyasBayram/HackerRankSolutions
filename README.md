@@ -54,7 +54,7 @@ In this repository you can find my solutions to problems with C#.
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Viral Advertising| [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ViralAdvertising.cs) | Score: 15
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Jumping On Clouds| [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/JumpingOnClouds.cs) | Score: 15
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Jumping On Clouds : Revisited| [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/JumpingOnClouds.cs) | Score: 15
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Beatiful Days At The Movies| [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BeatifulDaysAtTheMovies.cs) | Score: 15
 
@@ -67,6 +67,8 @@ In this repository you can find my solutions to problems with C#.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/HalloweenSale.cs) | Score: 20
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Sequance Aquation | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/SequenceEquation.cs) | Score: 20
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Jumping On Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/JumpingOnTheClouds.cs) | Score: 20
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/FindDigits.cs) | Score: 25
   
