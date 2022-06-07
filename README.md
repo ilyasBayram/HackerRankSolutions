@@ -76,7 +76,13 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
   
-<strong>3. String Problems</strong>
+  
+ <ul>
+   
+
+ <strong>3. String Problems</strong>
+  
+  </ul>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Camel Case | [Problem]([e](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)) | [Solution]([s](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/camelCase.cs)) | Score: 10
   
