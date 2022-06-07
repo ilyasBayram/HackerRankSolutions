@@ -28,7 +28,7 @@ In this repository you can find my solutions to problems with C#.
  
  <strong>2. Implementation Problems</strong>
 
- <ul>
+  <ul>
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Grading student | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/GradingStudents.cs) | Score: 10  
    
@@ -76,14 +76,14 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
   
-  
- <ul>
+ </ul>
    
+<strong>3. String Problems</strong>
 
- <strong>3. String Problems</strong>
+ <ul>
   
-  </ul>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Camel Case | [Problem](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/camelCase.cs) | Score: 10
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Camel Case | [Problem]([e](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)) | [Solution]([s](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/camelCase.cs)) | Score: 10
+ </ul>
   
-  </ul>
+
