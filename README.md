@@ -57,6 +57,9 @@ In this repository you can find my solutions to problems with C#.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Jumping On Clouds : Revisited| [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/JumpingOnClouds.cs) | Score: 15
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Beatiful Days At The Movies| [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BeatifulDaysAtTheMovies.cs) | Score: 15
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Save The Prisoner| [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/SaveThePrisoner.cs) | Score: 15
+
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Designer Pdf Viewer| [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/DesignerPdfViewer.cs) | Score: 20
    
