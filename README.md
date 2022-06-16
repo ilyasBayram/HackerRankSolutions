@@ -73,6 +73,8 @@ In this repository you can find my solutions to problems with C#.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Jumping On Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/JumpingOnTheClouds.cs) | Score: 20
   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Equalize The Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/EquelizeTheArray.cs) | Score: 20
+  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/FindDigits.cs) | Score: 25
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Cut The Stick | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/CutTheStick.cs) | Score: 25
