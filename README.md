@@ -87,6 +87,7 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
   
+ 
  </ul>
    
 <strong>3. String Problems</strong>
@@ -98,5 +99,15 @@ In this repository you can find my solutions to problems with C#.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Mars Exploration : Revisited| [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/marsExploration.cs) | Score: 15
   
  </ul>
+ 
+ 
+<strong>4. Sorting Problems</strong>
+
+ <ul>
   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Intro To Tutorial Challange | [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/IntroToTutorialChallange.cs) | Score: 30
+  
+  
+ </ul>
+ 
 
