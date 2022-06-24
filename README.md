@@ -107,6 +107,7 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Intro To Tutorial Challange | [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/IntroToTutorialChallange.cs) | Score: 30
   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Insertion Sort Part 1  | [Problem](https://www.hackerrank.com/challenges/insertionsort1/copy-from/276120112) | [Solution]() | Score: 30
   
  </ul>
  
