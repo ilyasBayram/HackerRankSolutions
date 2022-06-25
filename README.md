@@ -109,6 +109,8 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Insertion Sort Part 1  | [Problem](https://www.hackerrank.com/challenges/insertionsort1/copy-from/276120112) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/InsertionPart1.cs) | Score: 30
   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Insertion Sort Part 2  | [Problem](https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=false) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/InsertionSortPart2.cs) | Score: 30
+  
  </ul>
  
 
