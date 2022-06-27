@@ -120,7 +120,7 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Corretness And The Loop Invariant  | [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/CorrectnessAndTheLoopInvariant.cs) | Score: 30
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Insertion Sort Part 2  | [Problem](https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=false) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/InsertionSortPart2.cs) | Score: 30
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Manasa And Stones  | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/ManasaAndStones.cs) | Score: 30
   
   
  </ul>
