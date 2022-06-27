@@ -91,7 +91,7 @@ In this repository you can find my solutions to problems with C#.
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Manasa And Stones  | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Sorting/ManasaAndStones.cs) | Score: 30
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Manasa And Stones  | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ManasaAndStones.cs) | Score: 30
   
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solution]() | Score: 30
