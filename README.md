@@ -128,4 +128,15 @@ In this repository you can find my solutions to problems with C#.
   
  </ul>
  
+ 
+ <strong>5. Bit Manipulation</strong>
+
+ <ul>
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Lonely Integer | [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/BitManpulation/LonelyInteger.cs) | Score: 20
+  
+  
+  
+ </ul>
+ 
 
