@@ -80,6 +80,8 @@ In this repository you can find my solutions to problems with C#.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Equalize The Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/EquelizeTheArray.cs) | Score: 20
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/MinimumDistances.cs) | Score: 20
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Repeated Strings | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/RepeatedStrings.cs) | Score: 20
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/FindDigits.cs) | Score: 25
   
