@@ -37,6 +37,8 @@ In this repository you can find my solutions to problems with C#.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=false) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/DivisibleSumPairs.cs) | Score: 10  
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Apple And Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/AppleAndOrange.cs) | Score: 10 
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Between Two Set | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/BetweenTwoSet.cs) | Score: 10
  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/NumberLineJumps.cs) | Score: 10
 
