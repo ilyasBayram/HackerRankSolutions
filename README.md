@@ -93,6 +93,8 @@ In this repository you can find my solutions to problems with C#.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/ChocolateFeast.cs) | Score: 25
   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Taum And B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/TaumAndBday.cs) | Score: 25
+  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/StrangeCounter.cs) | Score: 30
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/Implementations/CavityMap.cs) | Score: 30
