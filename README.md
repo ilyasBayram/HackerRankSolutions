@@ -114,6 +114,8 @@ In this repository you can find my solutions to problems with C#.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Camel Case | [Problem](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/camelCase.cs) | Score: 10
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Mars Exploration : Revisited| [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/marsExploration.cs) | Score: 15
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Funy String : Revisited| [Problem](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true) | [Solution](https://github.com/ilyasBayram/HackerRankSolutions/blob/main/Algorithms/String/funnyString.cs) | Score: 25
   
  </ul>
  
